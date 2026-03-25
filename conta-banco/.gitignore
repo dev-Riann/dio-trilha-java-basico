@@ -1,0 +1,13 @@
+# Ignorar pastas de compilação do Java
+bin/
+*.class
+
+# Ignorar configurações do VS Code
+.vscode/
+.settings/
+.classpath
+.project
+
+# Ignorar arquivos do sistema
+Thumbs.db
+.DS_Store
